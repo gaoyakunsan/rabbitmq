@@ -1,0 +1,10 @@
+com\rabbitmq\ChrisConsumer.class
+com\rabbitmq\TestControler.class
+com\rabbitmq\ShijjConsumer.class
+com\rabbitmq\Thread\Storage.class
+com\rabbitmq\Product.class
+com\rabbitmq\MessageConsumer.class
+com\rabbitmq\Thread\Producer.class
+com\rabbitmq\Thread\Test1.class
+com\rabbitmq\Thread\Test.class
+com\rabbitmq\Thread\Consumer.class
